@@ -1,0 +1,4 @@
+
+cd C:\Users\tuo47278\Desktop\noise_maker_WD
+
+python myAddNoise.py
